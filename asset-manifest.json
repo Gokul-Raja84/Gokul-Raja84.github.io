@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.5b0174f2.css",
-    "main.js": "/static/js/main.bd5d7820.js",
+    "main.js": "/static/js/main.1ba741a6.js",
     "static/media/portfolio.gif": "/static/media/portfolio.ed6c89f1485f23014ebd.gif",
     "static/media/fa-solid-900.svg": "/static/media/fa-solid-900.9fa614346b4e81decc62.svg",
     "static/media/fa-brands-400.svg": "/static/media/fa-brands-400.6fcab609e2f62d5c3104.svg",
     "static/media/tiktok_logo.png": "/static/media/tiktok_logo.bf41765c122d4b0f3fee.png",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/code.png": "/static/media/code.64fee43e1256b290a897.png",
     "static/media/iu_logo.png": "/static/media/iu_logo.5f44628376f5171bea0f.png",
     "static/media/dsc_logo.png": "/static/media/dsc_logo.fdf993910e3f48d0cf30.png",
     "static/media/fa-solid-900.eot": "/static/media/fa-solid-900.d93bcbbb0fbfad39d905.eot",
@@ -21,6 +22,7 @@
     "static/media/GoogleSans-Regular.ttf": "/static/media/GoogleSans-Regular.bec0591b6a291c3ca895.ttf",
     "static/media/GoogleSans-Medium.ttf": "/static/media/GoogleSans-Medium.963c3e555aaada9ef8a9.ttf",
     "static/media/GoogleSans-Bold.ttf": "/static/media/GoogleSans-Bold.d907e4bf3e32637a636e.ttf",
+    "static/media/GR.jpg": "/static/media/GR.f15e12be502b26d05d2c.jpg",
     "static/media/contactMail.png": "/static/media/contactMail.d4c9ac42fba95158a55c.png",
     "static/media/fa-solid-900.woff": "/static/media/fa-solid-900.3ef4f1acb44a2df412bf.woff",
     "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
@@ -32,6 +34,7 @@
     "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.4a83f63fd7dd55c4ca85.woff2",
     "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.1c638e5f7632ea819e77.woff2",
     "static/media/iiitk_logo.png": "/static/media/iiitk_logo.170d558551a09a7d1620.png",
+    "static/media/srm logo.png": "/static/media/srm logo.e173b5b4dc978fa30cb6.png",
     "static/media/intel_logo.jpg": "/static/media/intel_logo.d7577f35a3dac4e5636d.jpg",
     "static/media/ui_ux_design.svg": "/static/media/ui_ux_design.42a2cdaf132097cc499e.svg",
     "static/media/manOnTable.svg": "/static/media/manOnTable.f861b03b5a2d1a28c198.svg",
@@ -64,10 +67,10 @@
     "static/media/talksCardBackAlt.svg": "/static/media/talksCardBackAlt.018d87225926eee9ccc3.svg",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.7dc8695e60efbc2baab8.svg",
     "main.5b0174f2.css.map": "/static/css/main.5b0174f2.css.map",
-    "main.bd5d7820.js.map": "/static/js/main.bd5d7820.js.map"
+    "main.1ba741a6.js.map": "/static/js/main.1ba741a6.js.map"
   },
   "entrypoints": [
     "static/css/main.5b0174f2.css",
-    "static/js/main.bd5d7820.js"
+    "static/js/main.1ba741a6.js"
   ]
 }
