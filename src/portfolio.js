@@ -21,12 +21,11 @@ const seo = {
 const greeting = {
   title: "Gokul Raja",
   logo_name: "Gokul Raja",
-  nickname: "Backend Developer & Data Analyst",
+  nickname: "Developer & Data Analyst",
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
     "https://drive.google.com/file/d/1FL_wydnPF2SWCdw2goYAgZ1KKBx8TpcD/view?usp=sharing",
-  portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
   githubProfile: "https://github.com/Gokul-Raja84",
 };
 
@@ -342,30 +341,30 @@ const competitiveSites = {
       },
       profileLink: "https://www.hackerrank.com/layman_brother",
     },
-    {
-      siteName: "Codechef",
-      iconifyClassname: "simple-icons:codechef",
-      style: {
-        color: "#5B4638",
-      },
-      profileLink: "https://www.codechef.com/users/ashutosh_1919",
-    },
-    {
-      siteName: "Codeforces",
-      iconifyClassname: "simple-icons:codeforces",
-      style: {
-        color: "#1F8ACB",
-      },
-      profileLink: "http://codeforces.com/profile/layman_brother",
-    },
-    {
-      siteName: "Hackerearth",
-      iconifyClassname: "simple-icons:hackerearth",
-      style: {
-        color: "#323754",
-      },
-      profileLink: "https://www.hackerearth.com/@ashutosh391",
-    },
+    // {
+    //   siteName: "Codechef",
+    //   iconifyClassname: "simple-icons:codechef",
+    //   style: {
+    //     color: "#5B4638",
+    //   },
+    //   profileLink: "https://www.codechef.com/users/ashutosh_1919",
+    // },
+    // {
+    //   siteName: "Codeforces",
+    //   iconifyClassname: "simple-icons:codeforces",
+    //   style: {
+    //     color: "#1F8ACB",
+    //   },
+    //   profileLink: "http://codeforces.com/profile/layman_brother",
+    // },
+    // {
+    //   siteName: "Hackerearth",
+    //   iconifyClassname: "simple-icons:hackerearth",
+    //   style: {
+    //     color: "#323754",
+    //   },
+    //   profileLink: "https://www.hackerearth.com/@ashutosh391",
+    // },
     {
       siteName: "Kaggle",
       iconifyClassname: "simple-icons:kaggle",
