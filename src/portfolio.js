@@ -21,7 +21,7 @@ const seo = {
 const greeting = {
   title: "Gokul Raja",
   logo_name: "Gokul Raja",
-  nickname: "budding Software Developer 🚀",
+  nickname: "Software Developer 🚀",
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink: "https://gokul-raja84.github.io/My-Resume/",
