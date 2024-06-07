@@ -20,6 +20,10 @@
         {
           "name": "JavaScript",
           "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "Github Pages",
+          "iconifyClass": "simple-icons:githubpages"
         }
       ]
     },
@@ -37,34 +41,40 @@
         },
         {
           "name": "SQL",
-          "iconifyClass":"logos-"
+          "iconifyClass":"tabler:sql"
+        },
+        {
+          "name": "Numpy",
+          "iconifyClass":"devicon-plain:numpy-wordmark"
+        },
+        {
+          "name": "Pandas",
+          "iconifyClass":"devicon-plain:pandas"
         }
       ]
     },
     {
       "id": "R_kgDOG0_8uQ",
       "name": "ImaGenX-AI",
-      "createdAt": "2022-02-11T14:50:20Z",
+      "createdAt": "",
       "url": "https://github.com/Gokul-Raja84/ImaGenX-AI",
       "description": "A user-friendly web app harnessing Google's Imagen 2 API for dynamic AI image generation based on user prompts.",
       "isFork": false,
       "languages": [
-        {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:"
-        },
+        
         {
           "name": "JavaScript",
           "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "Node.js",
+          "iconifyClass": "devicon:nodejs-wordmark"
+        },
+        {
+          "name": "API",
+          "iconifyClass": "eos-icons:api"
         }
+        
       ]
     },
     {
@@ -78,6 +88,14 @@
         {
           "name": "Python",
           "iconifyClass": "logos-python"
+        },
+        {
+          "name": "TesnorFlow Machine Learning",
+          "iconifyClass": "simple-icons:tensorflow"
+        },
+        {
+          "name": "Deep Learning",
+          "iconifyClass": "carbon:ai"
         }
       ]
     },
@@ -92,6 +110,18 @@
         {
           "name": "JavaScript",
           "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "Tailwind",
+          "iconifyClass": "logos:typescript-icon"
+        },
+        {
+          "name": "Vite",
+          "iconifyClass": "logos:vitejs"
         }
       ]
     },
@@ -103,13 +133,27 @@
       "description": "AI Image Generation in MERN with DALL·E !",
       "isFork": false,
       "languages": [
+       
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "name": "Node.js",
+          "iconifyClass": "devicon:nodejs-wordmark"
         },
         {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "name": "React",
+          "iconifyClass": "logos-react"
+        },
+        {
+          "name": "MongoDB",
+          "iconifyClass": "devicon:mongodb-wordmark"
+        },
+        {
+          "name": "Express.js",
+          "iconifyClass": "skill-icons:expressjs-dark"
+
+        },
+        {
+          "name": "API",
+          "iconifyClass": "eos-icons:api"
         }
       ]
     }

@@ -196,11 +196,11 @@ const skills = {
           },
         },
         {
-          skillName: "Gatsby",
-          fontAwesomeClassname: "simple-icons:gatsby",
-          style: {
-            color: "#663399",
-          },
+          skillName: "Mongodb",
+          fontAwesomeClassname: "skill-icons:mongodb",
+          // style: {
+          //   color: "#663399",
+          // },
         },
         {
           skillName: "Flutter",
