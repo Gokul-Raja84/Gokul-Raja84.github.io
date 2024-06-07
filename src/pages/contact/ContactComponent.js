@@ -69,7 +69,7 @@ class Contact extends Component {
                 </p>
                 <div className="blogsite-btn-div">
                   <Button
-                    text="Visit My Blogsite"
+                    text="Visit My Github"
                     newTab={true}
                     href={blogSection.link}
                     theme={theme}
@@ -121,7 +121,7 @@ class Contact extends Component {
                 </p>
                 <div className="address-btn-div">
                   <Button
-                    text="Visit on Google Maps"
+                    text="Let's Collaborate"
                     newTab={true}
                     href={addressSection.location_map_link}
                     theme={theme}

@@ -24,8 +24,7 @@ const greeting = {
   nickname: "budding Software Developer 🚀",
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
-  resumeLink:
-    "https://drive.google.com/file/d/1FL_wydnPF2SWCdw2goYAgZ1KKBx8TpcD/view?usp=sharing",
+  resumeLink: "https://gokul-raja84.github.io/My-Resume/",
   githubProfile: "https://github.com/Gokul-Raja84",
 };
 
@@ -674,7 +673,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.",
+    "My projects makes use of vast variety of latest technology tools. My best experience is to create Machine Learnig, Python and Data Analysis projects along with Responsive Websites / Web apps and host - deploy them.",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -735,26 +734,27 @@ const contactPageData = {
   contactSection: {
     title: "Contact Me",
     profile_image_path: "GR.jpg",
-    description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
+    description: (
+      <span>
+        I am available on almost every social media. You can message / connect
+        with me, I will reply within 24 hours.
+        <br /> I can help you with Python, ML, SQL, Data Analysis, Web Dev and
+        UI/UX.
+      </span>
+    ),
   },
   blogSection: {
-    title: "Blogs",
+    title: "Aspiration",
     subtitle:
-      "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
-    link: "https://blogs.ashutoshhathidara.com/",
+      "I am actively seeking Internships and thrilling opportunities where I can contribute and grow. Explore my GitHub to discover my skills and projects, and feel free to reach out if you have a role that aligns with my talents and aspirations.",
+    link: "https://github.com/Gokul-Raja84",
     avatar_image_path: "code.png",
   },
   addressSection: {
-    title: "Address",
-    subtitle: "",
-    locality: "Kanodar",
-    country: "IN",
-    region: "Gujarat",
-    postalCode: "385520",
-    streetAddress: "Ambavadi vas",
+    title: "Connect",
+    subtitle: "Check out my other socials and links here🔻",
     avatar_image_path: "",
-    location_map_link: "https://goo.gl/maps/MpMqtRZytFchMkZ76",
+    location_map_link: "https://bento.me/gokulraja",
   },
   phoneSection: {
     title: "",
