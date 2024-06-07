@@ -94,28 +94,6 @@ const skills = {
       ],
       softwareSkills: [
         {
-          skillName: "Tensorflow",
-          fontAwesomeClassname: "logos-tensorflow",
-          style: {
-            backgroundColor: "transparent",
-          },
-        },
-        {
-          skillName: "Keras",
-          fontAwesomeClassname: "simple-icons:keras",
-          style: {
-            backgroundColor: "white",
-            color: "#D00000",
-          },
-        },
-        {
-          skillName: "PyTorch",
-          fontAwesomeClassname: "logos-pytorch",
-          style: {
-            backgroundColor: "transparent",
-          },
-        },
-        {
           skillName: "Python",
           fontAwesomeClassname: "ion-logo-python",
           style: {
@@ -124,8 +102,31 @@ const skills = {
           },
         },
         {
+          skillName: "Tensorflow",
+          fontAwesomeClassname: "logos-tensorflow",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+
+        {
+          skillName: "PyTorch",
+          fontAwesomeClassname: "logos:pytorch-icon",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+
+        {
           skillName: "Deeplearning",
           imageSrc: "deeplearning_ai_logo.png",
+        },
+        {
+          skillName: "PyTorch",
+          fontAwesomeClassname: "carbon:data-volume",
+          style: {
+            backgroundColor: "transparent",
+          },
         },
       ],
     },
@@ -138,27 +139,6 @@ const skills = {
         "⚡ Creating application backend in Node, Express & Flask",
       ],
       softwareSkills: [
-        {
-          skillName: "HTML5",
-          fontAwesomeClassname: "simple-icons:html5",
-          style: {
-            color: "#E34F26",
-          },
-        },
-        {
-          skillName: "CSS3",
-          fontAwesomeClassname: "fa-css3",
-          style: {
-            color: "#1572B6",
-          },
-        },
-        {
-          skillName: "Sass",
-          fontAwesomeClassname: "simple-icons:sass",
-          style: {
-            color: "#CC6699",
-          },
-        },
         {
           skillName: "JavaScript",
           fontAwesomeClassname: "simple-icons:javascript",
@@ -176,7 +156,7 @@ const skills = {
         },
         {
           skillName: "NodeJS",
-          fontAwesomeClassname: "simple-icons:node-dot-js",
+          fontAwesomeClassname: "devicon:nodejs-wordmark",
           style: {
             color: "#339933",
           },
@@ -189,13 +169,6 @@ const skills = {
           },
         },
         {
-          skillName: "Yarn",
-          fontAwesomeClassname: "simple-icons:yarn",
-          style: {
-            color: "#2C8EBB",
-          },
-        },
-        {
           skillName: "Mongodb",
           fontAwesomeClassname: "skill-icons:mongodb",
           // style: {
@@ -203,8 +176,8 @@ const skills = {
           // },
         },
         {
-          skillName: "Flutter",
-          fontAwesomeClassname: "simple-icons:flutter",
+          skillName: "API",
+          fontAwesomeClassname: "arcticons:api-tester",
           style: {
             color: "#02569B",
           },
@@ -289,31 +262,31 @@ const skills = {
       ],
       softwareSkills: [
         {
-          skillName: "Adobe XD",
-          fontAwesomeClassname: "simple-icons:adobexd",
+          skillName: "Figma",
+          fontAwesomeClassname: "logos:figma",
           style: {
-            color: "#FF2BC2",
+            color: "transparent",
           },
         },
         {
-          skillName: "Figma",
-          fontAwesomeClassname: "simple-icons:figma",
+          skillName: "Adobe XD",
+          fontAwesomeClassname: "logos:adobe-xd",
           style: {
-            color: "#F24E1E",
+            color: "transparent",
           },
         },
         {
           skillName: "Adobe Illustrator",
-          fontAwesomeClassname: "simple-icons:adobeillustrator",
+          fontAwesomeClassname: "logos:adobe-illustrator",
           style: {
-            color: "#FF7C00",
+            color: "transparent",
           },
         },
         {
           skillName: "Canva",
           fontAwesomeClassname: "simple-icons:canva",
           style: {
-            color: "#000000",
+            color: "",
           },
         },
       ],
