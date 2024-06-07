@@ -325,7 +325,7 @@ const skills = {
 const competitiveSites = {
   competitiveSites: [
     {
-      siteName: "LeetCode",
+      siteName: "Github",
       iconifyClassname: "simple-icons:github",
       style: {
         color: "#000000",
@@ -338,39 +338,7 @@ const competitiveSites = {
       style: {
         color: "#2EC866",
       },
-      profileLink: "https://www.hackerrank.com/layman_brother",
-    },
-    // {
-    //   siteName: "Codechef",
-    //   iconifyClassname: "simple-icons:codechef",
-    //   style: {
-    //     color: "#5B4638",
-    //   },
-    //   profileLink: "https://www.codechef.com/users/ashutosh_1919",
-    // },
-    // {
-    //   siteName: "Codeforces",
-    //   iconifyClassname: "simple-icons:codeforces",
-    //   style: {
-    //     color: "#1F8ACB",
-    //   },
-    //   profileLink: "http://codeforces.com/profile/layman_brother",
-    // },
-    // {
-    //   siteName: "Hackerearth",
-    //   iconifyClassname: "simple-icons:hackerearth",
-    //   style: {
-    //     color: "#323754",
-    //   },
-    //   profileLink: "https://www.hackerearth.com/@ashutosh391",
-    // },
-    {
-      siteName: "Kaggle",
-      iconifyClassname: "simple-icons:kaggle",
-      style: {
-        color: "#20BEFF",
-      },
-      profileLink: "https://www.kaggle.com/laymanbrother",
+      profileLink: "https://www.hackerrank.com/gokulraja840",
     },
   ],
 };
@@ -379,13 +347,12 @@ const degrees = {
   degrees: [
     {
       title: "SRM Institute of Science and Technology",
-      subtitle: "B.Tech. in Information Technology",
+      subtitle: "B.Tech. in Information Technology - 9.45 GPA",
       logo_path: "srm logo.png",
-      alt_name: "IIITDM Kurnool",
       duration: "2020 - 2024",
       descriptions: [
-        "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
-        "⚡ Apart from this, I have done courses on Deep Learning, Data Analysis, AWS Cloud Technical, Web Development and Flutter App Development.",
+        "🔺 I studied software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
+        "📈 Apart from this, I have done courses on Machine Learning, Data Analysis, AWS Cloud Technical, Web Development and UI/UX.",
         "⚡ I also acted as DEPARTMENT REPRESENTATIVE of my department.",
       ],
       website_link: "https://srmrmp.edu.in/",
