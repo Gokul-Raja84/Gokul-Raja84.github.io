@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.5d33f769.css",
-    "main.js": "/static/js/main.8f0506ae.js",
+    "main.js": "/static/js/main.9c5416fd.js",
     "static/media/portfolio.gif": "/static/media/portfolio.ed6c89f1485f23014ebd.gif",
     "static/media/fa-solid-900.svg": "/static/media/fa-solid-900.9fa614346b4e81decc62.svg",
     "static/media/fa-brands-400.svg": "/static/media/fa-brands-400.6fcab609e2f62d5c3104.svg",
@@ -37,6 +37,7 @@
     "static/media/srm logo.png": "/static/media/srm logo.e173b5b4dc978fa30cb6.png",
     "static/media/intel_logo.jpg": "/static/media/intel_logo.d7577f35a3dac4e5636d.jpg",
     "static/media/ui_ux_design.svg": "/static/media/ui_ux_design.42a2cdaf132097cc499e.svg",
+    "static/media/gl.jpg": "/static/media/gl.9d2b9c769a0e145c2c6f.jpg",
     "static/media/manOnTable.svg": "/static/media/manOnTable.f861b03b5a2d1a28c198.svg",
     "static/media/muffito_logo.png": "/static/media/muffito_logo.a40e290031eaf389bde1.png",
     "static/media/deeplearning_ai_logo.png": "/static/media/deeplearning_ai_logo.f5e1bd288e7a2b30a390.png",
@@ -56,6 +57,7 @@
     "static/media/pwa.png": "/static/media/pwa.5107022416df1293dd12.png",
     "static/media/experience.svg": "/static/media/experience.c50c576af78a4172f78d.svg",
     "static/media/fa-regular-400.woff": "/static/media/fa-regular-400.2ccf005a6998d30de3d3.woff",
+    "static/media/acc1.jpg": "/static/media/acc1.120be55d8d52f48a0641.jpg",
     "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.e5917ad1531005ea8c3f.woff2",
     "static/media/feelingProud.svg": "/static/media/feelingProud.288e616ff8dc11bd4713.svg",
     "static/media/cloud_infrastructure.svg": "/static/media/cloud_infrastructure.20b580f8784fe74e6e38.svg",
@@ -68,10 +70,10 @@
     "static/media/talksCardBackAlt.svg": "/static/media/talksCardBackAlt.018d87225926eee9ccc3.svg",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.7dc8695e60efbc2baab8.svg",
     "main.5d33f769.css.map": "/static/css/main.5d33f769.css.map",
-    "main.8f0506ae.js.map": "/static/js/main.8f0506ae.js.map"
+    "main.9c5416fd.js.map": "/static/js/main.9c5416fd.js.map"
   },
   "entrypoints": [
     "static/css/main.5d33f769.css",
-    "static/js/main.8f0506ae.js"
+    "static/js/main.9c5416fd.js"
   ]
 }
