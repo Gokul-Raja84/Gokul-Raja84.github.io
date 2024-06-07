@@ -59,7 +59,7 @@
         },
         {
           "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
+          "iconifyClass": "simple-icons:"
         },
         {
           "name": "JavaScript",
