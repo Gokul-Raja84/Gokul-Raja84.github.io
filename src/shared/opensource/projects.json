@@ -18,10 +18,6 @@
           "iconifyClass": "simple-icons:tensorflow"
         },
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
           "name": "Github Pages",
           "iconifyClass": "simple-icons:githubpages"
         }
