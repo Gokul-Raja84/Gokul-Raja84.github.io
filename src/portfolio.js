@@ -303,7 +303,7 @@ const competitiveSites = {
       style: {
         color: "#000000",
       },
-      profileLink: "https://leetcode.com/layman_brother/",
+      profileLink: "https://github.com/Gokul-Raja84",
     },
     {
       siteName: "HackerRank",
@@ -352,8 +352,7 @@ const certifications = {
       title: "Python course by Google",
       subtitle: "Coursera",
       logo_path: "google_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/22MTSSC5WDTM",
+      certificate_link: "",
       alt_name: "Stanford University",
       color_code: "#ffffff",
     },
@@ -361,8 +360,7 @@ const certifications = {
       title: "Machine Learning",
       subtitle: "Kaggle",
       logo_path: "kaggle.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/H8CPSFXAJD2G",
+      certificate_link: "",
       alt_name: "deeplearning.ai",
       color_code: "#ffffff",
     },
@@ -370,8 +368,7 @@ const certifications = {
       title: "AWS Cloud Technical Essentials",
       subtitle: "",
       logo_path: "images.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/EB4VJARK8647",
+      certificate_link: "",
       alt_name: "Google",
       color_code: "#ffffff",
     },
@@ -379,8 +376,7 @@ const certifications = {
       title: "SQL for Data Science",
       subtitle: "UC DAVIS - Coursera",
       logo_path: "course.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/PLEAPCSJBZT5",
+      certificate_link: "",
       alt_name: "IBM",
       color_code: "#ffffff",
     },
@@ -388,8 +384,7 @@ const certifications = {
       title: "Machine Learning with Python",
       subtitle: "IBM",
       logo_path: "ibm_logo.png",
-      certificate_link:
-        "https://drive.google.com/file/d/164zKCFOsI4vGqokc-Qj-e_D00kLDHIrG/view",
+      certificate_link: "",
       alt_name: "Microsoft",
       color_code: "#ffffff",
     },
@@ -397,8 +392,7 @@ const certifications = {
       title: "Google IT Support",
       subtitle: "",
       logo_path: "google_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/BH2T9BRU87BH",
+      certificate_link: "",
       alt_name: "IBM",
       color_code: "#ffffff",
     },
@@ -406,8 +400,7 @@ const certifications = {
       title: "Web Development",
       subtitle: "IBM - Coursera",
       logo_path: "ibm_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/5JZZM7TNQ2AV",
+      certificate_link: "",
       alt_name: "Google",
       color_code: "#ffffff",
     },
@@ -415,8 +408,7 @@ const certifications = {
       title: "Python Data Structures",
       subtitle: "",
       logo_path: "deeplearning_ai_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/6T4DCUGNK8J8",
+      certificate_link: "",
       alt_name: "deeplearning.ai",
       color_code: "#ffffff",
     },
@@ -424,8 +416,7 @@ const certifications = {
       title: "Google UX Design",
       subtitle: "",
       logo_path: "google_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/certificate/NRANJA66Y2YA",
+      certificate_link: "",
       alt_name: "Coursera",
       color_code: "#ffffff",
     },
@@ -433,8 +424,7 @@ const certifications = {
       title: "Accenture Developer Virtual Internship",
       subtitle: "- Qwiklabs",
       logo_path: "acc1.jpg",
-      certificate_link:
-        "https://google.qwiklabs.com/public_profiles/e4d5a92b-faf6-4679-a70b-a9047c0cd750",
+      certificate_link: "",
       alt_name: "GCP",
       color_code: "#ffffff",
     },
@@ -442,8 +432,7 @@ const certifications = {
       title: "J.P. Morgan Software Engineering Virtual Intership",
       subtitle: "- Saurabh Mukhopadhyay",
       logo_path: "jp.png",
-      certificate_link:
-        "https://drive.google.com/open?id=1z5ExD_QJVdU0slLkp8CBqSF3-C3g-ro_",
+      certificate_link: "",
       alt_name: "NPTEL",
       color_code: "#ffffff",
     },
@@ -451,8 +440,7 @@ const certifications = {
       title: "Data Visualization",
       subtitle: "- Qwiklabs",
       logo_path: "gl.jpg",
-      certificate_link:
-        "https://google.qwiklabs.com/public_profiles/5fab4b2d-be6f-408c-8dcb-6d3b58ecb4a2",
+      certificate_link: "",
       alt_name: "GCP",
       color_code: "#ffffff",
     },
