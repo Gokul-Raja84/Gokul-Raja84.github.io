@@ -11,7 +11,10 @@ export default function Footer(props) {
         <p className="footer-text" style={{ color: props.theme.secondaryText }}>
           Designed and Developed <span role="img"></span> by ⚡ {greeting.title}
         </p>
-        {/* <ToggleSwitch theme={props.theme} onToggle={props.onToggle}/> */}
+        <p className="footer-text" style={{ color: props.theme.secondaryText }}>
+          &copy; Copyrights 2024. All rights & wrongs reserved !<br />
+          Crafted with love ❤️‍🔥, some chaos😶‍🌫️ + lots of Coffee☕
+        </p>
       </Fade>
     </div>
   );

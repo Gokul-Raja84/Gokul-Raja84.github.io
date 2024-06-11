@@ -252,45 +252,45 @@ const skills = {
     //     },
     //   ],
     // },
-    {
-      title: "UI/UX Design",
-      fileName: "DesignImg",
-      skills: [
-        "⚡ Designing highly attractive user interface for mobile and web applications",
-        "⚡ Customizing logo designs and building logos from scratch",
-        "⚡ Creating the flow of application functionalities to optimize user experience",
-      ],
-      softwareSkills: [
-        {
-          skillName: "Figma",
-          fontAwesomeClassname: "logos:figma",
-          style: {
-            color: "transparent",
-          },
-        },
-        {
-          skillName: "Adobe XD",
-          fontAwesomeClassname: "logos:adobe-xd",
-          style: {
-            color: "transparent",
-          },
-        },
-        {
-          skillName: "Adobe Illustrator",
-          fontAwesomeClassname: "logos:adobe-illustrator",
-          style: {
-            color: "transparent",
-          },
-        },
-        {
-          skillName: "Canva",
-          fontAwesomeClassname: "simple-icons:canva",
-          style: {
-            color: "",
-          },
-        },
-      ],
-    },
+    // {
+    //   title: "UI/UX Design",
+    //   fileName: "DesignImg",
+    //   skills: [
+    //     "⚡ Designing highly attractive user interface for mobile and web applications",
+    //     "⚡ Customizing logo designs and building logos from scratch",
+    //     "⚡ Creating the flow of application functionalities to optimize user experience",
+    //   ],
+    //   softwareSkills: [
+    //     {
+    //       skillName: "Figma",
+    //       fontAwesomeClassname: "logos:figma",
+    //       style: {
+    //         color: "transparent",
+    //       },
+    //     },
+    //     {
+    //       skillName: "Adobe XD",
+    //       fontAwesomeClassname: "logos:adobe-xd",
+    //       style: {
+    //         color: "transparent",
+    //       },
+    //     },
+    //     {
+    //       skillName: "Adobe Illustrator",
+    //       fontAwesomeClassname: "logos:adobe-illustrator",
+    //       style: {
+    //         color: "transparent",
+    //       },
+    //     },
+    //     {
+    //       skillName: "Canva",
+    //       fontAwesomeClassname: "simple-icons:canva",
+    //       style: {
+    //         color: "",
+    //       },
+    //     },
+    //   ],
+    // },
   ],
 };
 
