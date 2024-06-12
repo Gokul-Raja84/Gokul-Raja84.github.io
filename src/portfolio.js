@@ -95,7 +95,7 @@ const skills = {
       softwareSkills: [
         {
           skillName: "Python",
-          fontAwesomeClassname: "ion-logo-python",
+          fontAwesomeClassname: "logos:python",
           style: {
             backgroundColor: "transparent",
             color: "#3776AB",
