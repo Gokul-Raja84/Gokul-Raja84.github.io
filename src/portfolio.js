@@ -320,13 +320,13 @@ const degrees = {
   degrees: [
     {
       title: "SRM Institute of Science and Technology",
-      subtitle: "B.Tech. in Information Technology - 9.45 GPA",
+      subtitle: "B.Tech. in Information Technology - 9.42 CGPA",
       logo_path: "srm logo.png",
       duration: "2020 - 2024",
       descriptions: [
         "🔺 I studied software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
         "📈 Apart from this, I have done courses on Machine Learning, Data Analysis, AWS Cloud Technical, Web Development and UI/UX.",
-        "⚡ I also acted as DEPARTMENT REPRESENTATIVE of my department.",
+        "⚡ I also served as DEPARTMENT REPRESENTATIVE of my department.",
       ],
       website_link: "https://srmrmp.edu.in/",
     },
@@ -490,7 +490,29 @@ const experience = {
     },
     {
       title: "Volunteerships",
-      experiences: [],
+      experiences: [
+        {
+          title: "Department Representative",
+          company: "Information Technology Department",
+          company_url: "https://srmrmp.edu.in/",
+          location:
+            "SRM Institute of Science and Technology, Ramapuram, Chennai",
+          description:
+            "Coordinated students and tasks as a Department Representative, ensuring smooth communication and efficient task management within the IT Department.",
+          color: "#D83B01",
+        },
+        {
+          title: "Placement Representative",
+          company: "Information Technology Department",
+          company_url: "https://srmrmp.edu.in/",
+          location:
+            "SRM Institute of Science and Technology, Ramapuram, Chennai",
+          duration: "July 2023 - Febraury, 2024",
+          description:
+            "Served as one of the Placement Representative for the IT Department, assisting students in scheduling and organizing placement drives.",
+          color: "#D83B01",
+        },
+      ],
     },
   ],
 };
