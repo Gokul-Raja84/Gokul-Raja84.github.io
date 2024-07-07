@@ -458,11 +458,35 @@ const experience = {
     {
       title: "Work",
       work: true,
-      experiences: [<p>I consider my projects as experience as of now</p>],
+      experiences: [
+        {
+          title: "Looking for opportunities",
+          company: "",
+          company_url: "https://www.tiktok.com/en/",
+          logo_path: "tiktok_logo.png",
+          duration: "Currently Present in ",
+          location: "Chennai / Madurai, Tamil Nadu, India",
+          description:
+            "Improving my skillset each and every day. If you've come this far in my portfolio, it might mean you have an opportunity for me. I'd love to connect and discuss how I can contribute to your team or project. Help me take the next step in my career journey !",
+          color: "#000000",
+        },
+      ],
     },
     {
       title: "Internships",
-      experiences: [],
+      experiences: [
+        {
+          title: "Software developer Intern",
+          company: "Cosmic Crafts",
+          company_url: "https://cosmiccrafts.netlify.app/",
+          logo_path: "tiktok_logo.png",
+          duration: "July 2023 - October 2023",
+          location: "SRMIST, Chennai",
+          description:
+            "Led a student community in concept development and client engagement for app, web, and design solutions, showcasing leadership, strong teamwork and multitasking skills; Developed and deployed websites and projects, actively contributing to coding, testing, and enhancing user experience.",
+          color: "#000000",
+        },
+      ],
     },
     {
       title: "Volunteerships",
@@ -482,7 +506,7 @@ const projectsHeader = {
 const publicationsHeader = {
   title: "Publications",
   description:
-    "I have worked on two research papers / projects and one of them currently in the process of publication .",
+    "I have worked on two research papers / projects and ACGAN Project has been accepted for publication in the Journal of Current Research in Engineering and Science.",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -493,9 +517,8 @@ const publications = {
       name: "Math Scribble",
       createdAt: "",
       description:
-        "Project on Deep Learning for Math Equations Recognition and Solving for Students",
-      url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
+        "Project on Deep Learning for Handwritten Math Equations Recognition and Solving for Students",
+      url: "",
     },
     {
       id: "",
@@ -503,8 +526,7 @@ const publications = {
       createdAt: "",
       description:
         "Paper on Enhance Network Security Decision Making using ACGAN Machine Learning for unbalanced data in Network attacks",
-      url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
+      url: "",
     },
   ],
 };
