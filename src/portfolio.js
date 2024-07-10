@@ -23,7 +23,7 @@ const greeting = {
   logo_name: "Gokul Raja",
   nickname: "Software Developer 💻",
   subTitle:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "A passionate individual who always thrives to work on developing end to end products and building scalable, high impact projects and technical systems.",
   resumeLink: "https://gokul-raja84.github.io/My-Resume/",
   githubProfile: "https://github.com/Gokul-Raja84",
 };
