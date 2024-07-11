@@ -63,7 +63,7 @@ class ExperienceCard extends Component {
               >
                 <div>
                   <h3
-                    className="experience-card-title"
+                    className="experience-card- link-underline link-underline-black"
                     style={{ color: theme.text }}
                   >
                     {experience["title"]}
