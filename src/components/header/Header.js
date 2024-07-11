@@ -26,7 +26,10 @@ class Header extends Component {
           <header className="header">
             <NavLink to={link} tag={Link} className="logo">
               <span style={{ color: theme.text }}> &lt;</span>
-              <span className="logo-name" style={{ color: theme.text }}>
+              <span
+                className="logo-name link-underline link-underline-black"
+                style={{ color: theme.text }}
+              >
                 {greeting.logo_name}
               </span>
               <span style={{ color: theme.text }}>/&gt;</span>

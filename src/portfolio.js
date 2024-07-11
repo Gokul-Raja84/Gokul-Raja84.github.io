@@ -85,7 +85,7 @@ const socialMediaLinks = [
 const skills = {
   data: [
     {
-      title: "Data Analysis & AI",
+      title: "AI, ML & Data Analysis",
       fileName: "DataScienceImg",
       skills: [
         "⚡ Developing scalable models for various Machine Learning and statistical use cases",
