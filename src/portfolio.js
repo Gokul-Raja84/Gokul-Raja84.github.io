@@ -122,7 +122,7 @@ const skills = {
           imageSrc: "deeplearning_ai_logo.png",
         },
         {
-          skillName: "PyTorch",
+          skillName: "Data Analysis & Visualization",
           fontAwesomeClassname: "carbon:data-volume",
           style: {
             backgroundColor: "transparent",
@@ -324,19 +324,6 @@ const degrees = {
       ],
       website_link: "https://srmrmp.edu.in/",
     },
-    // {
-    //   title: "Indiana University Bloomington",
-    //   subtitle: "M.S. in Computer Science",
-    //   logo_path: "iu_logo.png",
-    //   alt_name: "Indiana University Bloomington",
-    //   duration: "2021 - 2023",
-    //   descriptions: [
-    //     "⚡ I have taken varity of courses related to Artificial Intelligence which correspond to Explainable AI, Graph Machine Learning, Computer Vision etc.",
-    //     "⚡ Apart from this, I have also done research assistantship. As part of it, I have worked on creating new algorithms in Graph ML and Network Science.",
-    //     "⚡ During my time at university, I was also associated with multimedia department. As part of it, I have worked on some documentry films and interviews.",
-    //   ],
-    //   website_link: "https://www.indiana.edu/",
-    // },
   ],
 };
 
