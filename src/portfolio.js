@@ -567,6 +567,8 @@ const contactPageData = {
   },
 };
 
+console.log("Designed and Developed by Gokul Raja⚡");
+
 export {
   settings,
   seo,
