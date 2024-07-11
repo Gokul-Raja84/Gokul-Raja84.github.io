@@ -140,6 +140,14 @@ const skills = {
       ],
       softwareSkills: [
         {
+          skillName: "Java",
+          fontAwesomeClassname: "devicon:java-wordmark",
+          style: {
+            backgroundColor: "#",
+            color: "",
+          },
+        },
+        {
           skillName: "JavaScript",
           fontAwesomeClassname: "simple-icons:javascript",
           style: {
@@ -160,20 +168,6 @@ const skills = {
           style: {
             color: "#339933",
           },
-        },
-        {
-          skillName: "NPM",
-          fontAwesomeClassname: "simple-icons:npm",
-          style: {
-            color: "#CB3837",
-          },
-        },
-        {
-          skillName: "Mongodb",
-          fontAwesomeClassname: "skill-icons:mongodb",
-          // style: {
-          //   color: "#663399",
-          // },
         },
         {
           skillName: "API",
