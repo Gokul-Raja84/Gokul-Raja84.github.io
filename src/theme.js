@@ -209,10 +209,10 @@ export const redBlackTheme = {
   splashBg: "#000000", // Black
 };
 
-export const refinedBlueTheme = {
-  body: "#EDF9FE",
+export const refinedblueTheme = {
+  body: "#abc4ff",
   text: "#001C55",
-  expTxtColor: "#001C55",
+  expTxtColor: "#000a12",
   highlight: "#A6E1FA",
   dark: "#00072D",
   secondaryText: "#7F8DAA",
@@ -221,7 +221,6 @@ export const refinedBlueTheme = {
   jacketColor: "#0A2472",
   headerColor: "#0E6BA877",
   splashBg: "#001C55",
-  linkHover: "#0A66C2", // New addition for link hover color
 };
 
-export const chosenTheme = blueTheme;
+export const chosenTheme = refinedblueTheme;
