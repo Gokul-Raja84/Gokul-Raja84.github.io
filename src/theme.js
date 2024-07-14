@@ -213,7 +213,7 @@ export const refinedblueTheme = {
   body: "#abc4ff",
   text: "#001C55",
   expTxtColor: "#000a12",
-  highlight: "#FFB59A",
+  highlight: "#A6E1FA",
   dark: "#00072D",
   secondaryText: "#7F8DAA",
   imageHighlight: "#0E6BA8",
