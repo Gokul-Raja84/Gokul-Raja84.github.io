@@ -195,4 +195,33 @@ export const materialTealTheme = {
   splashBg: "#05505E",
 };
 
+export const redBlackTheme = {
+  body: "#000000", // Black
+  text: "#ff0000", // Red for text on black background
+  expTxtColor: "#ff0000", // Red
+  highlight: "#ff0000", // Red
+  dark: "#000000", // Black
+  secondaryText: "#ff0000", // Red
+  imageHighlight: "#ff0000", // Red
+  compImgHighlight: "#ff0000", // Red
+  jacketColor: "#ff0000", // Red
+  headerColor: "#ff000077", // Semi-transparent red
+  splashBg: "#000000", // Black
+};
+
+export const refinedBlueTheme = {
+  body: "#EDF9FE",
+  text: "#001C55",
+  expTxtColor: "#001C55",
+  highlight: "#A6E1FA",
+  dark: "#00072D",
+  secondaryText: "#7F8DAA",
+  imageHighlight: "#0E6BA8",
+  compImgHighlight: "#E6E6E6",
+  jacketColor: "#0A2472",
+  headerColor: "#0E6BA877",
+  splashBg: "#001C55",
+  linkHover: "#0A66C2", // New addition for link hover color
+};
+
 export const chosenTheme = blueTheme;
