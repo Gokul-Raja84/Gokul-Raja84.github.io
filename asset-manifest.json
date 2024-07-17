@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e148560e.css",
-    "main.js": "/static/js/main.694dd2ec.js",
+    "main.js": "/static/js/main.cdad8a8a.js",
     "static/media/portfolio.gif": "/static/media/portfolio.ed6c89f1485f23014ebd.gif",
     "static/media/fa-solid-900.svg": "/static/media/fa-solid-900.9fa614346b4e81decc62.svg",
     "static/media/fa-brands-400.svg": "/static/media/fa-brands-400.6fcab609e2f62d5c3104.svg",
@@ -22,7 +22,7 @@
     "static/media/GoogleSans-Regular.ttf": "/static/media/GoogleSans-Regular.bec0591b6a291c3ca895.ttf",
     "static/media/GoogleSans-Medium.ttf": "/static/media/GoogleSans-Medium.963c3e555aaada9ef8a9.ttf",
     "static/media/GoogleSans-Bold.ttf": "/static/media/GoogleSans-Bold.d907e4bf3e32637a636e.ttf",
-    "static/media/GR.jpg": "/static/media/GR.f15e12be502b26d05d2c.jpg",
+    "static/media/GR.jpg": "/static/media/GR.60c7abff4850ecc2d5ec.jpg",
     "static/media/contactMail.png": "/static/media/contactMail.d4c9ac42fba95158a55c.png",
     "static/media/fa-solid-900.woff": "/static/media/fa-solid-900.3ef4f1acb44a2df412bf.woff",
     "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
@@ -70,10 +70,10 @@
     "static/media/talksCardBackAlt.svg": "/static/media/talksCardBackAlt.018d87225926eee9ccc3.svg",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.7dc8695e60efbc2baab8.svg",
     "main.e148560e.css.map": "/static/css/main.e148560e.css.map",
-    "main.694dd2ec.js.map": "/static/js/main.694dd2ec.js.map"
+    "main.cdad8a8a.js.map": "/static/js/main.cdad8a8a.js.map"
   },
   "entrypoints": [
     "static/css/main.e148560e.css",
-    "static/js/main.694dd2ec.js"
+    "static/js/main.cdad8a8a.js"
   ]
 }
