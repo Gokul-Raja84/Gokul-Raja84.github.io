@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e148560e.css",
-    "main.js": "/static/js/main.cdad8a8a.js",
+    "main.js": "/static/js/main.a4078abc.js",
     "static/media/portfolio.gif": "/static/media/portfolio.ed6c89f1485f23014ebd.gif",
     "static/media/fa-solid-900.svg": "/static/media/fa-solid-900.9fa614346b4e81decc62.svg",
     "static/media/fa-brands-400.svg": "/static/media/fa-brands-400.6fcab609e2f62d5c3104.svg",
@@ -48,6 +48,8 @@
     "static/media/legato_logo.png": "/static/media/legato_logo.227e72c7979187840ba3.png",
     "static/media/developerActivity.svg": "/static/media/developerActivity.967f31dad3158d5be07b.svg",
     "static/media/github_logo.png": "/static/media/github_logo.15e591a7397b9ef45656.png",
+    "static/media/programming.svg": "/static/media/programming.e7fd0478451b8d72ff9b.svg",
+    "static/media/startup.svg": "/static/media/startup.dd409f5840447bd06e0c.svg",
     "static/media/color.svg": "/static/media/color.6b6cdffb3b7e6341fdbf.svg",
     "static/media/googleAssistant.jpg": "/static/media/googleAssistant.547075a751cc15673246.jpg",
     "static/media/projects_image.svg": "/static/media/projects_image.0a8062569966b4888c7c.svg",
@@ -64,16 +66,18 @@
     "static/media/blogs_image.svg": "/static/media/blogs_image.08bcc48d9a3783389c93.svg",
     "static/media/data_science.svg": "/static/media/data_science.9dcadb158ebe250997f6.svg",
     "static/media/fullstack.svg": "/static/media/fullstack.32a1ffc74848a2ed7dbf.svg",
+    "static/media/project.svg": "/static/media/project.7cf275ff6124bcda7afa.svg",
     "static/media/education.svg": "/static/media/education.d5cc42f042227db12468.svg",
+    "static/media/join.svg": "/static/media/join.ac3bb1381b42989f59dd.svg",
     "index.html": "/index.html",
     "static/media/googleAssistant.svg": "/static/media/googleAssistant.1c2312558eb2e5f04a45.svg",
     "static/media/talksCardBackAlt.svg": "/static/media/talksCardBackAlt.018d87225926eee9ccc3.svg",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.7dc8695e60efbc2baab8.svg",
     "main.e148560e.css.map": "/static/css/main.e148560e.css.map",
-    "main.cdad8a8a.js.map": "/static/js/main.cdad8a8a.js.map"
+    "main.a4078abc.js.map": "/static/js/main.a4078abc.js.map"
   },
   "entrypoints": [
     "static/css/main.e148560e.css",
-    "static/js/main.cdad8a8a.js"
+    "static/js/main.a4078abc.js"
   ]
 }
