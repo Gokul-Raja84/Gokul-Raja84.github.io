@@ -7,6 +7,21 @@
   margin: 0px auto;
 }
 
+.link-underline {
+  border-bottom-width: 0;
+  background-image: linear-gradient(transparent, transparent),
+    linear-gradient(#ee4c2c, #ee4c2c);
+  background-size: 0 2px;
+  background-position: 0 100%;
+  background-repeat: no-repeat;
+  transition: background-size 0.5s ease-in-out;
+}
+
+.link-underline:hover {
+  background-size: 100% 2px;
+  background-position: 0 100%;
+}
+
 .header ul {
   margin: 0;
   padding: 0;
@@ -23,11 +38,6 @@
   padding: 20px 20px;
   /* color: black; */
   text-decoration: none;
-}
-
-.header li a:hover,
-.header .menu-btn:hover {
-  /* background-color: #A6E1FA; */
 }
 
 .header .logo {
