@@ -12,7 +12,7 @@ export default class BlogsImg extends Component {
         height="742.85506"
         viewBox="0 0 1061 742.85506"
       >
-        <title>task</title>
+        <title>Aspirations</title>
         <path
           d="M1118.5,516.01425c0,103.85867-61.74233,140.12223-137.90535,140.12223S842.68931,619.87292,842.68931,516.01425,980.59465,280.031,980.59465,280.031,1118.5,412.15559,1118.5,516.01425Z"
           transform="translate(-69.5 -78.57247)"

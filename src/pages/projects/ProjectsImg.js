@@ -27,7 +27,7 @@ export default class ProjectsImg extends Component {
             <stop offset="1" stopColor="gray" stopOpacity="0.1" />
           </linearGradient>
         </defs>
-        <title>mind map</title>
+        <title>Project works</title>
         <ellipse
           cx="843.39"
           cy="664.8"

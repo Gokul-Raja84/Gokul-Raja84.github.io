@@ -12,7 +12,7 @@ export default class ExperienceImg extends Component {
         height="760"
         viewBox="0 0 1094 760"
       >
-        <title>career process</title>
+        <title>Improving everyday</title>
         <rect
           x="155"
           y="304.52"
