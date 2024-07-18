@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.e148560e.css",
-    "main.js": "/static/js/main.a4078abc.js",
+    "main.css": "/static/css/main.ef24ce84.css",
+    "main.js": "/static/js/main.37b94279.js",
     "static/media/portfolio.gif": "/static/media/portfolio.ed6c89f1485f23014ebd.gif",
     "static/media/fa-solid-900.svg": "/static/media/fa-solid-900.9fa614346b4e81decc62.svg",
     "static/media/fa-brands-400.svg": "/static/media/fa-brands-400.6fcab609e2f62d5c3104.svg",
@@ -65,6 +65,7 @@
     "static/media/cloud_infrastructure.svg": "/static/media/cloud_infrastructure.20b580f8784fe74e6e38.svg",
     "static/media/blogs_image.svg": "/static/media/blogs_image.08bcc48d9a3783389c93.svg",
     "static/media/data_science.svg": "/static/media/data_science.9dcadb158ebe250997f6.svg",
+    "static/media/coding.svg": "/static/media/coding.3f87bd5947de386f0291.svg",
     "static/media/fullstack.svg": "/static/media/fullstack.32a1ffc74848a2ed7dbf.svg",
     "static/media/project.svg": "/static/media/project.7cf275ff6124bcda7afa.svg",
     "static/media/education.svg": "/static/media/education.d5cc42f042227db12468.svg",
@@ -73,11 +74,11 @@
     "static/media/googleAssistant.svg": "/static/media/googleAssistant.1c2312558eb2e5f04a45.svg",
     "static/media/talksCardBackAlt.svg": "/static/media/talksCardBackAlt.018d87225926eee9ccc3.svg",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.7dc8695e60efbc2baab8.svg",
-    "main.e148560e.css.map": "/static/css/main.e148560e.css.map",
-    "main.a4078abc.js.map": "/static/js/main.a4078abc.js.map"
+    "main.ef24ce84.css.map": "/static/css/main.ef24ce84.css.map",
+    "main.37b94279.js.map": "/static/js/main.37b94279.js.map"
   },
   "entrypoints": [
-    "static/css/main.e148560e.css",
-    "static/js/main.a4078abc.js"
+    "static/css/main.ef24ce84.css",
+    "static/js/main.37b94279.js"
   ]
 }
