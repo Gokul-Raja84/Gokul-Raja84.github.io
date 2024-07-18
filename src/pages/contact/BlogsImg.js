@@ -6,8 +6,8 @@ export default class BlogsImg extends Component {
     return (
       <svg
         xmlns="http://www.w3.org/2000/svg"
-        width="511.56264"
-        height="532.44842"
+        width="1013.44925"
+        height="610.28138"
         viewBox="0 0 511.56264 532.44842"
         //xmlns:xlink="http://www.w3.org/1999/xlink"
       >
