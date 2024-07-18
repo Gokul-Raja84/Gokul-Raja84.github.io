@@ -190,7 +190,7 @@ class FeelingProud extends Component {
             y="176.36275"
             width="29.75235"
             height="7.1626"
-            fill={theme.imageHighlight}
+            fill={theme.body}
           />
           <rect
             id="b9a0b375-cc2a-4c59-8850-661af54e4f62"
@@ -199,7 +199,7 @@ class FeelingProud extends Component {
             y="176.36275"
             width="10.46842"
             height="7.1626"
-            fill={theme.imageHighlight}
+            fill={theme.body}
           />
           <rect
             id="e174c2ab-9bc5-41ec-b37c-b06fbf8a9878"
@@ -208,7 +208,7 @@ class FeelingProud extends Component {
             y="176.36275"
             width="10.46842"
             height="7.1626"
-            fill={theme.imageHighlight}
+            fill={theme.body}
           />
           <rect
             id="ba2479ac-4c7d-43b4-a028-73b1e20e4002"
@@ -217,7 +217,7 @@ class FeelingProud extends Component {
             y="176.36275"
             width="71.07506"
             height="7.1626"
-            fill={theme.imageHighlight}
+            fill={theme.body}
           />
           <rect
             id="ac60ef86-00f2-480b-8171-28b6fdfc1958"
@@ -226,7 +226,7 @@ class FeelingProud extends Component {
             y="222.6442"
             width="29.75235"
             height="7.1626"
-            fill={theme.imageHighlight}
+            fill={theme.body}
           />
           <rect
             id="b3d8298d-cd65-487a-8b19-4cee946356e7"
@@ -235,7 +235,7 @@ class FeelingProud extends Component {
             y="222.6442"
             width="10.46842"
             height="7.1626"
-            fill={theme.imageHighlight}
+            fill={theme.body}
           />
           <rect
             id="ed27f15f-f0c4-4569-8330-a6688f8e356c"
@@ -244,7 +244,7 @@ class FeelingProud extends Component {
             y="222.6442"
             width="10.46842"
             height="7.1626"
-            fill={theme.imageHighlight}
+            fill={theme.body}
           />
           <rect
             id="f685c005-adaf-4d60-acda-005b037d82a6"
@@ -253,7 +253,7 @@ class FeelingProud extends Component {
             y="222.6442"
             width="71.07506"
             height="7.1626"
-            fill={theme.imageHighlight}
+            fill={theme.body}
           />
           <rect
             id="eca7c7fc-83f8-48ca-a588-6606db47af3f"
@@ -262,7 +262,7 @@ class FeelingProud extends Component {
             y="192.34088"
             width="29.75235"
             height="7.1626"
-            fill={theme.imageHighlight}
+            fill={theme.body}
           />
           <rect
             id="a71b5b2f-f8b9-481d-a301-5e3357e5fe42"
@@ -271,7 +271,7 @@ class FeelingProud extends Component {
             y="192.34088"
             width="29.75235"
             height="7.1626"
-            fill={theme.imageHighlight}
+            fill={theme.body}
           />
           <rect
             id="abb3a25a-f854-41fc-8391-e6ad9fbe2417"
@@ -280,7 +280,7 @@ class FeelingProud extends Component {
             y="192.34088"
             width="10.46842"
             height="7.1626"
-            fill={theme.imageHighlight}
+            fill={theme.body}
           />
           <rect
             id="add2b425-b775-4eb5-9c25-8c4c14f957c9"
@@ -289,7 +289,7 @@ class FeelingProud extends Component {
             y="192.34088"
             width="10.46842"
             height="7.1626"
-            fill={theme.imageHighlight}
+            fill={theme.body}
           />
           <rect
             id="b7159612-3b84-4b0b-a885-612eaab04c06"
@@ -298,7 +298,7 @@ class FeelingProud extends Component {
             y="192.34088"
             width="71.07506"
             height="7.1626"
-            fill={theme.imageHighlight}
+            fill={theme.body}
           />
           <rect
             id="edfc7301-4de5-47dc-80e2-1ae2da982d6d"
@@ -307,7 +307,7 @@ class FeelingProud extends Component {
             y="207.76802"
             width="29.75235"
             height="7.1626"
-            fill={theme.imageHighlight}
+            fill={theme.body}
           />
           <rect
             id="e1009f91-6275-4375-80fa-0d778e331fdc"
@@ -316,7 +316,7 @@ class FeelingProud extends Component {
             y="207.76802"
             width="29.75235"
             height="7.1626"
-            fill={theme.imageHighlight}
+            fill={theme.body}
           />
           <rect
             id="a060fb9f-1f1a-4862-9a69-16dd49199e18"
@@ -325,7 +325,7 @@ class FeelingProud extends Component {
             y="207.76802"
             width="10.46842"
             height="7.1626"
-            fill={theme.imageHighlight}
+            fill={theme.body}
           />
           <rect
             id="b6754d5f-104f-449c-b9a9-cf9ac82bf5fe"
@@ -334,7 +334,7 @@ class FeelingProud extends Component {
             y="207.76802"
             width="10.46842"
             height="7.1626"
-            fill={theme.imageHighlight}
+            fill={theme.body}
           />
           <rect
             id="e6ed1ccd-2cfd-450f-a339-07df3a1ee6bb"
@@ -343,7 +343,7 @@ class FeelingProud extends Component {
             y="207.76802"
             width="71.07506"
             height="7.1626"
-            fill={theme.imageHighlight}
+            fill={theme.body}
           />
         </g>
       </svg>
