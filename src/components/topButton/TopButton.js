@@ -55,7 +55,7 @@ export default function TopButton({ theme }) {
         backgroundColor: theme.text,
         border: `solid 1px ${theme.text}`,
       }}
-      title="Go up"
+      title="Back to Top"
       onMouseEnter={() => onMouseEnter(theme.text, theme.body)}
       onMouseLeave={() => onMouseLeave(theme.body, theme.text)}
     >
