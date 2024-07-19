@@ -388,7 +388,7 @@ const certifications = {
     {
       title: "Python Data Structures",
       subtitle: "",
-      logo_path: "deeplearning_ai_logo.png",
+      logo_path: "course.png",
       certificate_link: "",
       alt_name: "deeplearning.ai",
       color_code: "#ffffff",
@@ -403,15 +403,15 @@ const certifications = {
     },
     {
       title: "Accenture Developer Virtual Internship",
-      subtitle: "- Qwiklabs",
+      subtitle: "",
       logo_path: "acc1.jpg",
       certificate_link: "",
       alt_name: "GCP",
       color_code: "#ffffff",
     },
     {
-      title: "J.P. Morgan Software Engineering Virtual Intership",
-      subtitle: "- Saurabh Mukhopadhyay",
+      title: "J.P. Morgan Software Engineering Virtual Internship",
+      subtitle: "",
       logo_path: "jp.png",
       certificate_link: "",
       alt_name: "NPTEL",
@@ -419,7 +419,7 @@ const certifications = {
     },
     {
       title: "Data Visualization",
-      subtitle: "- Qwiklabs",
+      subtitle: "Great Learning",
       logo_path: "gl.jpg",
       certificate_link: "",
       alt_name: "GCP",
@@ -492,6 +492,23 @@ const experience = {
           description:
             "Served as one of the Placement Representative for the IT Department, assisting students in scheduling and organizing placement drives.",
           color: "#D83B01",
+        },
+      ],
+    },
+    {
+      title: "Blog",
+      work: true,
+      experiences: [
+        {
+          title: "Technical content writer",
+          company: "Gokul's Blog - gokulraja.hashnode.dev",
+          company_url: "https://gokulraja.hashnode.dev",
+          logo_path: "",
+          duration: "July 2024 - Present",
+          location: "",
+          description:
+            "Currently developing my technical writing skills by building and writing blogs on various topics, including Python, JavaScript frameworks, Machine Learning, and Generative AI. Hey, if you’re experienced in tech blogging, help me out!",
+          color: "#000000",
         },
       ],
     },
