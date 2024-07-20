@@ -48,7 +48,7 @@ const socialMediaLinks = [
     name: "LinkedIn",
     link: "https://www.linkedin.com/in/gokulraja84/",
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
-    backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
+    backgroundColor: "#1877F2", // Reference https://simpleicons.org/?q=linkedin
   },
   {
     name: "Gmail",
@@ -57,16 +57,16 @@ const socialMediaLinks = [
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
   {
-    name: "Gokul's Blog",
-    link: "https://gokulraja.hashnode.dev/",
-    fontAwesomeIcon: "fa-hashnode", // Reference https://fontawesome.com/icons/facebook-f?style=brands
-    backgroundColor: "#1877F2", // Reference https://simpleicons.org/?q=facebook
-  },
-  {
     name: "Instagram",
     link: "https://www.instagram.com/gokul._raja._/",
     fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
     backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
+  },
+  {
+    name: "Gokul's Blog",
+    link: "https://gokulraja.hashnode.dev/",
+    fontAwesomeIcon: "fa-hashnode",
+    backgroundColor: "#1877F2",
   },
   {
     name: "X-Twitter",
