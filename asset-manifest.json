@@ -1,18 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.87153b89.css",
-    "main.js": "/static/js/main.ec21f1c3.js",
+    "main.js": "/static/js/main.935934ac.js",
     "static/media/portfolio.gif": "/static/media/portfolio.ed6c89f1485f23014ebd.gif",
     "static/media/fa-solid-900.svg": "/static/media/fa-solid-900.9fa614346b4e81decc62.svg",
     "static/media/fa-brands-400.svg": "/static/media/fa-brands-400.6fcab609e2f62d5c3104.svg",
-    "static/media/tiktok_logo.png": "/static/media/tiktok_logo.bf41765c122d4b0f3fee.png",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/code.png": "/static/media/code.64fee43e1256b290a897.png",
     "static/media/iu_logo.png": "/static/media/iu_logo.5f44628376f5171bea0f.png",
     "static/media/dsc_logo.png": "/static/media/dsc_logo.fdf993910e3f48d0cf30.png",
     "static/media/fa-solid-900.eot": "/static/media/fa-solid-900.d93bcbbb0fbfad39d905.eot",
     "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.aae41ea25bd0dde9f796.ttf",
-    "static/media/animated_ashutosh.png": "/static/media/animated_ashutosh.a6571aa6386520448027.png",
     "static/media/fa-regular-400.svg": "/static/media/fa-regular-400.4e8f9fa44f7ec7479c39.svg",
     "static/media/fa-brands-400.eot": "/static/media/fa-brands-400.b09f783b99c88d6989f7.eot",
     "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.ec7723ea62ad74c14959.ttf",
@@ -33,7 +31,6 @@
     "static/media/animated_logo.svg": "/static/media/animated_logo.abd0b20ec83cb1f60d42.svg",
     "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.4a83f63fd7dd55c4ca85.woff2",
     "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.1c638e5f7632ea819e77.woff2",
-    "static/media/iiitk_logo.png": "/static/media/iiitk_logo.170d558551a09a7d1620.png",
     "static/media/srm logo.png": "/static/media/srm logo.e173b5b4dc978fa30cb6.png",
     "static/media/intel_logo.jpg": "/static/media/intel_logo.d7577f35a3dac4e5636d.jpg",
     "static/media/ui_ux_design.svg": "/static/media/ui_ux_design.42a2cdaf132097cc499e.svg",
@@ -56,7 +53,6 @@
     "static/media/programmer.svg": "/static/media/programmer.d3060f7bf0527835d72e.svg",
     "static/media/jsFramework.svg": "/static/media/jsFramework.911c595a22a28c7b6f78.svg",
     "static/media/address_image.svg": "/static/media/address_image.3385d92e5e426e57a5b1.svg",
-    "static/media/pwa.png": "/static/media/pwa.5107022416df1293dd12.png",
     "static/media/experience.svg": "/static/media/experience.c50c576af78a4172f78d.svg",
     "static/media/fa-regular-400.woff": "/static/media/fa-regular-400.2ccf005a6998d30de3d3.woff",
     "static/media/acc1.jpg": "/static/media/acc1.120be55d8d52f48a0641.jpg",
@@ -75,10 +71,10 @@
     "static/media/talksCardBackAlt.svg": "/static/media/talksCardBackAlt.018d87225926eee9ccc3.svg",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.7dc8695e60efbc2baab8.svg",
     "main.87153b89.css.map": "/static/css/main.87153b89.css.map",
-    "main.ec21f1c3.js.map": "/static/js/main.ec21f1c3.js.map"
+    "main.935934ac.js.map": "/static/js/main.935934ac.js.map"
   },
   "entrypoints": [
     "static/css/main.87153b89.css",
-    "static/js/main.ec21f1c3.js"
+    "static/js/main.935934ac.js"
   ]
 }
