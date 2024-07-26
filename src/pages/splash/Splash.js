@@ -1,13 +1,18 @@
 import React, { Component } from "react";
 import "./Splash.css";
 import { Redirect } from "react-router-dom";
-import LoaderLogo from "../../components/Loader/LoaderLogo.js";
 
 function AnimatedSplash(props) {
   return (
     <div className="logo_wrapper">
-      <div className="screen" style={{ backgroundColor: props.theme.splashBg }}>
-        <LoaderLogo id="logo" theme={props.theme} />
+      <div className="screen">
+        <div className="preloader">
+          <div className="texts-container">
+            <span>Developer,</span>
+            <span>Curator,</span>
+            <span>Vibes.</span>
+          </div>
+        </div>
       </div>
     </div>
   );
@@ -26,16 +31,11 @@ class Splash extends Component {
   }
 
   componentWillUnmount() {
-    // Use componentWillUnmount instead of componentWillMount
     clearTimeout(this.id);
   }
 
   render() {
-    return this.state.redirect ? (
-      <Redirect to="/home" />
-    ) : (
-      <AnimatedSplash theme={this.props.theme} />
-    );
+    return this.state.redirect ? <Redirect to="/home" /> : <AnimatedSplash />;
   }
 }
 

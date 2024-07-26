@@ -1,16 +1,30 @@
-import React from "react";
-import Lottie from "lottie-react";
-import animeData from "./anime.json";
+import React, { useEffect } from "react";
 import "./LoaderLogo.css";
 
-class LoaderLogo extends React.Component {
-  render() {
-    return (
-      <div className="loader-logo-container">
-        <Lottie animationData={animeData} loop={true} autoplay={true} />
+const LoaderLogo = ({ theme }) => {
+  useEffect(() => {
+    const preLoaderAnim = () => {
+      const texts = document.querySelectorAll(".texts-container span");
+      let delay = 0;
+
+      texts.forEach((text) => {
+        text.style.animation = `fadeSlide 1s ${delay}s forwards`;
+        delay += 0.5;
+      });
+    };
+
+    preLoaderAnim();
+  }, []);
+
+  return (
+    <div className="preloader">
+      <div className="texts-container">
+        <span>Developer,</span>
+        <span>Curator,</span>
+        <span>Vibes.</span>
       </div>
-    );
-  }
-}
+    </div>
+  );
+};
 
 export default LoaderLogo;
