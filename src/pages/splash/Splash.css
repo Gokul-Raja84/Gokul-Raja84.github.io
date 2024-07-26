@@ -36,7 +36,7 @@ body {
 
 .texts-container span {
   color: white;
-  font-size: 2rem;
+  font-size: 1.5rem;
   font-weight: bold;
   opacity: 0;
   animation: fadeIn 1s forwards;
