@@ -1,11 +1,9 @@
 {
-  "short_name": "Gokul Portfolio",
   "name": "Gokul Raja Portfolio",
-  "icons": [
-  
- ],
-  "start_url": ".",
+  "background_color": "#000000",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "icons": [],
+  "short_name": "Gokul Portfolio",
+  "start_url": ".",
+  "theme_color": "#000000"
 }
