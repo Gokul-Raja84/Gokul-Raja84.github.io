@@ -12,7 +12,7 @@ export default class ProjectsImg extends Component {
         viewBox="0 0 1139.17088 654.54324"
         //xmlns:xlink="http://www.w3.org/1999/xlink"
       >
-        <title>progressive_app</title>
+        <title></title>
         <circle cx="246.82682" cy="521.76476" r="59.24334" fill="#f2f2f2" />
         <circle
           cx="256.45989"
