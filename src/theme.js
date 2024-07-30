@@ -223,4 +223,32 @@ export const refinedblueTheme = {
   splashBg: "#001C55",
 };
 
+export const jamwhiteTheme = {
+  body: "#D5CFD6",
+  text: "#001C55",
+  expTxtColor: "#000a12",
+  highlight: "#a2d2ff",
+  dark: "#00072D",
+  secondaryText: "#4865a3",
+  imageHighlight: "#0E6BA8",
+  compImgHighlight: "#E6E6E6",
+  jacketColor: "#0A2472",
+  headerColor: "#0E6BA877",
+  splashBg: "#001C55",
+};
+
+export const whiteblackTheme = {
+  body: "#FFFFFF",
+  text: "#000000",
+  expTxtColor: "#000a12",
+  highlight: "#FFFFFF",
+  dark: "#00072D",
+  secondaryText: "#4865a3",
+  imageHighlight: "#000000",
+  compImgHighlight: "#E6E6E6",
+  jacketColor: "#000000",
+  headerColor: "#0E6BA877",
+  splashBg: "#001C55",
+};
+
 export const chosenTheme = refinedblueTheme;
