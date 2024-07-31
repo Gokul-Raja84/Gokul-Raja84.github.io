@@ -14,7 +14,7 @@
         },
         {
           "name": "Machine Learning",
-          "iconifyClass": "simple-icons:tensorflow"
+          "iconifyClass": "devicon:tensorflow"
         },
         {
           "name": "Github Pages",
@@ -27,7 +27,7 @@
       "name": "My Portfolio",
       "createdAt": "",
       "url": "https://gokul-raja84.github.io/My-Resume/",
-      "description": "My Portfolio Website ",
+      "description": "My Portfolio Website, the site you are exploring right now.",
       "isFork": false,
       "languages": [
         {
@@ -109,7 +109,7 @@
       "name": "Java Projects",
       "createdAt": "",
       "url": "https://github.com/Gokul-Raja84/Java-Projects",
-      "description": "A range of Java projects designed to develop engaging command-line applications, games, and useful tools, ideal for those eager to learn Java",
+      "description": "A range of Java projects designed to develop engaging command-line applications, games and useful tools, ideal for those eager to learn Java",
       "isFork": false,
       "languages": [
         {
