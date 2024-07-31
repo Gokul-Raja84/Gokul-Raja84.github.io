@@ -531,7 +531,7 @@ const publications = {
       name: "Math Scribble",
       createdAt: "",
       description:
-        "Project on Deep Learning for Handwritten Math Equations Recognition and Solving for Students",
+        "Project on Deep Learning for Real time Handwritten Math Equations Recognition and Solving for Students",
       url: "",
     },
     {
