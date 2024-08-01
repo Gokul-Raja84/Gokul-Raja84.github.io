@@ -543,8 +543,8 @@ const contactPageData = {
     profile_image_path: "GR.jpg",
     description: (
       <span>
-        Be it for a project, a part-time role, a speaking engagement, or simply
-        to say hello, I'm always happy and looking forward to hearing from you.
+        Be it for a project, a part-time role, a presentation, or simply to say
+        hello, I'm always happy and looking forward to hearing from you.
         <br /> I can help you with Python, ML, SQL, Data Analysis, Web Dev and
         UI/UX.
       </span>
