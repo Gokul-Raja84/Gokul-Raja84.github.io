@@ -46,7 +46,7 @@ class Contact extends Component {
                 <SocialMedia theme={theme} />
                 <div className="resume-btn-div">
                   <Button
-                    text="Open to opportunities"
+                    text="Open to Opportunities"
                     newTab={true}
                     theme={theme}
                   />

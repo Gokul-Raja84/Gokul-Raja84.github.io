@@ -543,8 +543,8 @@ const contactPageData = {
     profile_image_path: "GR.jpg",
     description: (
       <span>
-        I am available on almost every social media. You can message / connect
-        with me, I will reply within 24 hours.
+        Be it for a project, a part-time role, a speaking engagement, or simply
+        to say hello, I'm always happy and looking forward to hearing from you.
         <br /> I can help you with Python, ML, SQL, Data Analysis, Web Dev and
         UI/UX.
       </span>
@@ -559,7 +559,8 @@ const contactPageData = {
   },
   addressSection: {
     title: "Connect",
-    subtitle: "Check out my other socials and links here🔻",
+    subtitle:
+      "Feel free to reach out if you're looking for a Developer or designer, or simply want to connect. Check out my other socials and links here🔻",
     avatar_image_path: "",
     location_map_link: "https://bento.me/gokulraja",
   },
