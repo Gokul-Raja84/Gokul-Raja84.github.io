@@ -74,3 +74,8 @@ export default class Main extends Component {
     );
   }
 }
+
+console.log(
+  "%c Hey sneaky developer 👀, I know you will come here, Check out My Portrfolio Website Blog here - https://gokulraja.hashnode.dev/my-portfolio-website",
+  "background-image: linear-gradient(90deg,#ffffff,#ffffff); color: black;font-weight:600;font-size:1rem; padding:10px;"
+);
