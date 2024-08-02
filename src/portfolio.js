@@ -570,7 +570,10 @@ const contactPageData = {
   },
 };
 
-console.log("Designed and Developed by Gokul Raja⚡");
+console.log(
+  "%c Designed and Developed by Gokul Raja",
+  "background-image: linear-gradient(90deg,#abc4ff,#D5CFD6); color: black;font-weight:900;font-size:1rem; padding:20px;"
+);
 
 export {
   settings,
