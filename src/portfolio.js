@@ -70,52 +70,6 @@ const socialMediaLinks = [
 const skills = {
   data: [
     {
-      title: "AI, ML & Data Analysis",
-      fileName: "DataScienceImg",
-      skills: [
-        "⚡ Developing scalable models for various Machine Learning and statistical use cases",
-        "⚡ Experience of working on Machine Learning projects",
-        "⚡ Data quantitative modelling for dynamic forecasting and time series analysis",
-      ],
-      softwareSkills: [
-        {
-          skillName: "Python",
-          fontAwesomeClassname: "logos:python",
-          style: {
-            backgroundColor: "transparent",
-            color: "#3776AB",
-          },
-        },
-        {
-          skillName: "Tensorflow",
-          fontAwesomeClassname: "logos-tensorflow",
-          style: {
-            backgroundColor: "transparent",
-          },
-        },
-
-        {
-          skillName: "PyTorch",
-          fontAwesomeClassname: "logos:pytorch-icon",
-          style: {
-            backgroundColor: "transparent",
-          },
-        },
-
-        {
-          skillName: "Deeplearning",
-          imageSrc: "deeplearning_ai_logo.png",
-        },
-        {
-          skillName: "Data Analysis & Visualization",
-          fontAwesomeClassname: "carbon:data-volume",
-          style: {
-            backgroundColor: "transparent",
-          },
-        },
-      ],
-    },
-    {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
@@ -148,10 +102,58 @@ const skills = {
           },
         },
         {
+          skillName: "Next.js",
+          fontAwesomeClassname: "devicon:nextjs-wordmark",
+          style: {
+            backgroundColor: "#",
+            color: "",
+          },
+        },
+        {
+          skillName: "TypeScript",
+          fontAwesomeClassname: "devicon:typescript",
+          style: {
+            backgroundColor: "#",
+            color: "",
+          },
+        },
+        {
+          skillName: "Tailwind css",
+          fontAwesomeClassname: "vscode-icons:file-type-tailwind",
+          style: {
+            backgroundColor: "#",
+            color: "",
+          },
+        },
+        {
           skillName: "NodeJS",
           fontAwesomeClassname: "devicon:nodejs-wordmark",
           style: {
             color: "#339933",
+          },
+        },
+        {
+          skillName: "Firebase",
+          fontAwesomeClassname: "devicon:firebase-wordmark",
+          style: {
+            backgroundColor: "#",
+            color: "",
+          },
+        },
+        {
+          skillName: "MongoDB",
+          fontAwesomeClassname: "devicon:mongodb-wordmark",
+          style: {
+            backgroundColor: "#",
+            color: "",
+          },
+        },
+        {
+          skillName: "Express",
+          fontAwesomeClassname: "devicon:express",
+          style: {
+            backgroundColor: "#",
+            color: "",
           },
         },
         {
@@ -161,8 +163,96 @@ const skills = {
             color: "#02569B",
           },
         },
+        {
+          skillName: "Vercel",
+          fontAwesomeClassname: "devicon:vercel-wordmark",
+          style: {
+            backgroundColor: "#",
+            color: "",
+          },
+        },
+        {
+          skillName: "Netlify",
+          fontAwesomeClassname: "devicon:netlify-wordmark",
+          style: {
+            backgroundColor: "#",
+            color: "",
+          },
+        },
+
+        {
+          skillName: "Figma",
+          fontAwesomeClassname: "logos:figma",
+          style: {
+            backgroundColor: "#",
+            color: "",
+          },
+        },
       ],
     },
+    {
+      title: "AI, ML & Data Analysis",
+      fileName: "DataScienceImg",
+      skills: [
+        "⚡ Developing scalable models for various Machine Learning and statistical use cases",
+        "⚡ Experience of working on Machine Learning projects",
+        "⚡ Data quantitative modelling for dynamic forecasting and time series analysis",
+      ],
+      softwareSkills: [
+        {
+          skillName: "Python",
+          fontAwesomeClassname: "logos:python",
+          style: {
+            backgroundColor: "transparent",
+            color: "#3776AB",
+          },
+        },
+        {
+          skillName: "Tensorflow",
+          fontAwesomeClassname: "logos-tensorflow",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+
+        {
+          skillName: "SQL",
+          fontAwesomeClassname: "logos:mysql",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+        {
+          skillName: "Data Analysis & Visualization",
+          fontAwesomeClassname: "carbon:data-volume",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+        {
+          skillName: "Django",
+          fontAwesomeClassname: "devicon-plain:django-wordmark",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+        {
+          skillName: "Excel",
+          fontAwesomeClassname: "vscode-icons:file-type-excel",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+        {
+          skillName: "Linux",
+          fontAwesomeClassname: "devicon:linux",
+          style: {
+            backgroundColor: "transparent",
+          },
+        },
+      ],
+    },
+
     // {
     //   title: "Cloud Infra-Architecture",
     //   fileName: "CloudInfraImg",
