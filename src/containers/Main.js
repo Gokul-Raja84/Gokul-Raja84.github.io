@@ -77,20 +77,25 @@ export default class Main extends Component {
 
 console.log(
   "%cHey sneaky developer 👀, I know you will come here",
-  "color:white;font-weight:600;padding:10px;"
+  "color:white;font-weight:600;padding:10px;font-size:1rem"
 );
 
 console.log(
   "%cDo you want to learn how this portfolio has been made?",
-  "color: #abc4ff;font-weight:600;padding:10px;size:2rem;"
+  "color: #abc4ff;font-weight:600;padding:10px;font-size:1rem;"
 );
 
 console.log(
   "%cCheck out My Portrfolio Website Blog here",
-  "color:white;font-weight:600;padding:10px;"
+  "color:white;font-weight:600;padding:10px;font-size:1rem"
 );
 
 console.log(
   "%chttps://gokulraja.hashnode.dev/my-portfolio-website",
-  "color: #abc4ff;font-weight:600;padding:10px;"
+  "color: #abc4ff;font-weight:600;padding:10px;font-size:1rem"
+);
+
+console.log(
+  "%c-----------------------------------------------------",
+  "font-size:1rem"
 );

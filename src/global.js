@@ -20,3 +20,13 @@ export const GlobalStyles = createGlobalStyle`
     font-family: BlinkMacSystemFont, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
     transition: all 0.25s linear;
   }`;
+
+console.log(
+  "%cIf you've come this far in my portfolio, it might mean you have an opportunity for me.",
+  "color: white;font-weight:600;padding:10px;font-size:1rem;"
+);
+
+console.log(
+  "%cHire Me !",
+  "color: #abc4ff;font-weight:600;padding:10px;font-size:1rem;"
+);
