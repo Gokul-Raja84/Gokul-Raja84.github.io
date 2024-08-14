@@ -119,7 +119,7 @@ const skills = {
         },
         {
           skillName: "Tailwind css",
-          fontAwesomeClassname: "vscode-icons:file-type-tailwind",
+          fontAwesomeClassname: "devicon:tailwindcss",
           style: {
             backgroundColor: "#",
             color: "",
