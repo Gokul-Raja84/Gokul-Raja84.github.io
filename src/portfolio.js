@@ -508,7 +508,7 @@ const experience = {
   title: "Experience",
   subtitle: "Work / Internship",
   description:
-    "My projects reflect my current professional experience. I am actively seeking exciting internship opportunities to further my career. If you are aware of any such opportunities, please contact me. Your assistance would be greatly appreciated.",
+    " I am currently working as a Software Engineer in a major corporate environment. If you have opportunities aligned with my skills, projects, and experience, I would be delighted to connect and discuss how I can contribute to your team, project, or organization.",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -643,7 +643,7 @@ const contactPageData = {
   blogSection: {
     title: "Aspiration",
     subtitle:
-      "I am actively seeking Internships and thrilling opportunities where I can contribute and grow. Explore my GitHub to discover my skills and projects, and feel free to reach out if you have a role that aligns with my talents and aspirations.",
+      "I am actively seeking thrilling opportunities where I can contribute and grow. Explore my GitHub to discover my skills and projects, and feel free to reach out if you have a role that aligns with my talents and aspirations.",
     link: "https://github.com/Gokul-Raja84",
     avatar_image_path: "code.png",
   },
